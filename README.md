@@ -13,7 +13,7 @@ The standalone version of [Laravel's Blade templating engine](https://laravel.co
 Install using composer:
 
 ```bash
-composer require jenssegers/blade
+composer require cyberhawk/blade
 ```
 
 ## Compatibility
@@ -26,7 +26,7 @@ composer require jenssegers/blade
 Create a Blade instance by passing it the folder(s) where your view files are located, and a cache folder. Render a template by calling the `make` method. More information about the Blade templating engine can be found at https://laravel.com/docs/13.x/blade.
 
 ```php
-use Jenssegers\Blade\Blade;
+use Cyberhawk\Blade\Blade;
 
 $blade = new Blade('views', 'cache');
 

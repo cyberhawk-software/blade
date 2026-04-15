@@ -1,6 +1,6 @@
 <?php
 
-namespace Jenssegers\Blade;
+namespace Cyberhawk\Blade;
 
 use Closure;
 use Illuminate\Container\Container as BaseContainer;

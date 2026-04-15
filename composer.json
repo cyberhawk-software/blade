@@ -1,5 +1,5 @@
 {
-    "name": "jenssegers/blade",
+    "name": "cyberhawk/blade",
     "description": "The standalone version of Laravel's Blade templating engine for use outside of Laravel.",
     "keywords": ["laravel", "blade", "template", "view", "render"],
     "license" : "MIT",
@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Jenssegers\\Blade\\": "src/"
+            "Cyberhawk\\Blade\\": "src/"
         }
     },
     "minimum-stability": "dev",
